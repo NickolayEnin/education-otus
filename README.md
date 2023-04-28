@@ -3,6 +3,3 @@
 
 Hi all
 
-Whats your name?
-
-
